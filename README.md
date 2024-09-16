@@ -1,5 +1,5 @@
 
-# Codex - Fullstack Web Application
+# XCode - Fullstack Web Application
 
 
 Welcome to Codex, a dynamic web application built as a coding platform using Next.js, Express, Tailwind CSS, MongoDB, and Node.js.
@@ -51,16 +51,3 @@ Run the application locally to explore and use Codex's features.
 - Solve the problem in any preffered language and submit.
 - View all your solutions from the submissions tab.
   
-## Contributing
-
-Contributions are always welcome!
-
-Please let me know if you find any bug or issues.
-
-
-## Contact
-
-For questions or support, please contact:
-
-- **Y Manish Kumar**: [ymanishk602@gmail.com](mailto:ymanishk602@gmail.com)
-
