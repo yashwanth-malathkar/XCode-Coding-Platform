@@ -2,7 +2,7 @@
 # XCode - Fullstack Web Application
 
 
-Welcome to Codex, a dynamic web application built as a coding platform using Next.js, Express, Tailwind CSS, MongoDB, and Node.js.
+Welcome to XCode, a dynamic web application built as a coding platform using Next.js, Express, Tailwind CSS, MongoDB, and Node.js.
 
 
 ## Features
@@ -21,33 +21,11 @@ Welcome to Codex, a dynamic web application built as a coding platform using Nex
 
 - Randomized Code Review: Codex's code review process is currently randomized.
 
-## Installation
-1. Install Prerequisites:
-
+Install Prerequisites:
   - Node.js 
   - npm 
   - MongoDB
 
 
-2. Clone the project:
 
-   ```bash
-    git clone https://github.com/manish3173/CodeX.git
-    cd Codex
-
-
-
-3. Run the application and backend
-
-    ```bash
-    npm run dev
-
-## Usage
-
-Run the application locally to explore and use Codex's features.
-
-- Create an account and login into Codex portal.
-- Browse throught the problems and pick anyone
-- Solve the problem in any preffered language and submit.
-- View all your solutions from the submissions tab.
   
